@@ -1,2 +1,1 @@
-"hihihi" 
-"edit again" 
+hi log
